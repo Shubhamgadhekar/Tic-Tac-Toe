@@ -5,24 +5,29 @@
 }
 
 .background {
-    background-color: #12181B;
+    background-image: url(/back.jpg);
     height: 100vh;
     padding-top: 1px;
+    background-position: center;
+    background-size: cover;
 }
 
 .title {
-    color: white;
+    color: #12181B;
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
+    /* text-shadow: 0 0 2px red, 0 0 3px red; */
+    
 }
 
 .display {
-    color: white;
+    color: #12181B;
     font-size: 25px;
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
+    /* text-shadow: 0 0 2px teal, 0 0 3px teal; */
 }
 
 .hide {
@@ -39,7 +44,7 @@
 }
 
 .tile {
-    border: 1px solid white;
+    border: 1px solid rgb(12, 164, 202);
     min-width: 100px;
     min-height: 100px;
     display: flex;
@@ -47,14 +52,16 @@
     align-items: center;
     font-size: 50px;
     cursor: pointer;
+    background-color: #12181B;
+    font-family: 'Gluten', cursive;
 }
 
 .playerX {
-    color: #09C372;
+    color: rgb(223, 0, 0);
 }
 
 .playerO {
-    color: #498AFB;
+    color: rgb(0, 190, 0);
 }
 
 .controls {
