@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
 
 ## Link of the game :
-
+https://tic-tak-toe-game.netlify.app
 
 ## GitHub Repo of Project :
 https://github.com/Shubhamgadhekar/game
