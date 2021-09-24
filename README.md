@@ -7,7 +7,7 @@
 https://github.com/Shubhamgadhekar/game
 
 ## github.io link :
-
+https://shubhamgadhekar.github.io/game
 
 ## Technologies Used : 
 HTML, CSS and JavaScript.
