@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic-Tac-Toe Game
 
 ## Link of the game :
 https://tic-tak-toe-game.netlify.app
