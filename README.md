@@ -7,7 +7,7 @@ https://tic-tak-toe-game.netlify.app
 https://github.com/Shubhamgadhekar/Tic-Tac-Toe
 
 ## github.io link :
-https://shubhamgadhekar.github.io/game
+https://shubhamgadhekar.github.io/Tic-Tac-Toe/
 
 ## Technologies Used : 
 HTML, CSS and JavaScript.
