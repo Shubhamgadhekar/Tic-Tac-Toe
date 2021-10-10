@@ -4,7 +4,7 @@
 https://tic-tak-toe-game.netlify.app
 
 ## GitHub Repo of Project :
-https://github.com/Shubhamgadhekar/game
+https://github.com/Shubhamgadhekar/Tic-Tac-Toe
 
 ## github.io link :
 https://shubhamgadhekar.github.io/game
